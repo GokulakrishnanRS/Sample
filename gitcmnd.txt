@@ -1,0 +1,6 @@
+git config --global user.name "**"
+git config --global user.email "**"
+
+git branch -M main
+git remote add origin https://github.com/GokulakrishnanRS/Sample.git
+git push -u origin main
